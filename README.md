@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sscafi
-- 👀 I’m interested in software development , Ai and robotics.
-- 🌱 I’m currently learning machine learning
-- 💞️ I’m looking to collaborate on any projects
+- 👋 Hi, I’m @sscafi a passionate enthusiast in the realm of software development, CyberSec, AI, and robotics.
+- 👀 Exploring the infinite possibilities within technology, my interests lie at the intersection of creativity and innovation.
+- 🌱 Currently immersed in the captivating world of machine learning, constantly seeking to expand my knowledge and skills.
+- 💞️ Open to collaboration on exciting projects that push the boundaries of what's possible. Let's create something extraordinary together!
 
 
 <!---
