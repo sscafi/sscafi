@@ -1,6 +1,12 @@
 <h1 align="center">Hi 👋, I'm saher</h1>
 <h3 align="center">I am a software engineer sharing my jourey and learning in tech.</h3>
 
+- 🌱 I’m currently learning **Cybersecurity using kali linux , I started out on TryHackMe i am continuing my journey by going on various sites and practicing using their challenges.**
+
+- 📫 How to reach me **saherscafi@gmail.com**
+
+- ⚡ Fun fact **I am a musician !**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sscafi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sscafi" height="30" width="40" /></a>
