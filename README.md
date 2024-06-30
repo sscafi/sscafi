@@ -2,10 +2,11 @@
 <h3 align="center">I am a software engineer sharing my jourey and learning in tech.</h3>
 
 - 🌱 I’m currently learning **Cybersecurity using kali linux , I started out on TryHackMe i am continuing my journey by going on various sites and practicing using their challenges.**
+-  🔬 I completed my  Computer Science degree  from <a href="https://lassonde.yorku.ca/?" target="_blank">York University</a>
 
-- 📫 How to reach me <a href="mailto:saherscafi@gmail.com?/" target="_blank">ClickHere</a>
+-  📧 How to reach me <a href="mailto:saherscafi@gmail.com?/" target="_blank">ClickHere</a>
 
-- ⚡ Fun fact **I am a musician !**
+- ⚡ Fun fact **I also love to make music and travel  🌝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
