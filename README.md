@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Cybersecurity using kali linux , I started out on TryHackMe i am continuing my journey by going on various sites and practicing using their challenges.**
 
-- 📫 How to reach me <a href="mailto:https://saherscafi@gmail.com?/" target="_blank">ClickHere</a>
+- 📫 How to reach me <a href="mailto:saherscafi@gmail.com?/" target="_blank">ClickHere</a>
 
 - ⚡ Fun fact **I am a musician !**
 
