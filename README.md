@@ -6,7 +6,7 @@
 
 -  📧 How to reach me <a href="mailto:saherscafi@gmail.com?/" target="_blank">ClickHere</a>
 
-- ⚡ Fun fact **I also love to make music and travel  🌝**
+- ⚡ Fun fact **I am also a musician  🌝**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
