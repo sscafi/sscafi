@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm saher</h1>
 <h3 align="center">I am a software engineer sharing my jourey and learning in tech</h3>
 
-- 🌱 I’m currently learning **Cybersecurity using kali linux , I started out on TryHackMe i am continuing my journey by going on various sites and practicing using their challenges.**
+- 🌱 I’m currently learning **Cybersecurity using kali linux , I started out on TryHackMe i am continuing my journey by going on various sites and practicing using their challenges**
 -  🔬 I completed my  Computer Science degree  from <a href="https://lassonde.yorku.ca/?" target="_blank">York University</a>
 
 -  📧 How to reach me <a href="mailto:saherscafi@gmail.com?/" target="_blank">ClickHere</a>
