@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! 👋 I'm Saher</h1>
+<h1 align="center">Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> I'm Saher</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Software+Engineer;Cybersecurity+Enthusiast;Lifelong+Learner;Musician&center=true&width=380&height=45">
