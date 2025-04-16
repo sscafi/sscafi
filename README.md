@@ -12,7 +12,7 @@
 
 ## 🚀 About Me
 
-- 🎓 Computer Science graduate from [York University](https://lassonde.yorku.ca/?)
+- 🎓I'm a software engineer and a Computer Science graduate from [York University](https://lassonde.yorku.ca/?)
 - 🔒 Currently diving deep into Cybersecurity using Kali Linux
 - 🌱 Sharpening my skills on TryHackMe and various other platforms
 - 🎵 Also a musician, because why not mix tech with tunes? 🎸
